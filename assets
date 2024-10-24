@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "459366820751",
+    "firebase_url": "https://infoo-e3e45-default-rtdb.firebaseio.com",
+    "project_id": "infoo-e3e45",
+    "storage_bucket": "infoo-e3e45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459366820751:android:9af15550ba151186e3f9fa",
+        "android_client_info": {
+          "package_name": "prova.jorge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459366820751-s17egi0f8tho42dlu8abs21252l1steu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRZytissQq-TflIgNapJWtQ5g0QZBB1Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459366820751-s17egi0f8tho42dlu8abs21252l1steu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
